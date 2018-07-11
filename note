@@ -1,0 +1,3 @@
+#### Windows SV 2016
+Dism /online /Set-Edition:ServerStandard /AcceptEula /ProductKey:wc2bq-8nrm3-fddyy-2bfgv-khkqy
+
